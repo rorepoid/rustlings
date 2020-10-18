@@ -15,3 +15,11 @@ Here you'll learn about simple variables.
 <summary>variables2.rs</summary>
     If we want to compare a variable, that variable must be initialized(this means specifying an initial value to assign to it)
 </details>
+
+<details>
+<summary>variables3.rs</summary>
+    If we want to change the value of a variable, we should set the variable as mutable with `mut`
+
+    Some like this:
+    let mut x = 3;
+</details>
